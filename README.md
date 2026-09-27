@@ -33,13 +33,3 @@ The investigation adhered strictly to **ISO/IEC 27037 standards** for digital ev
 | File Name | Description |
 | :--- | :--- |
 | **`Forensic_Investigation_Report.pdf`** | Primary comprehensive investigation report covering evidence verification, folder analysis, forensic screenshots, timeline reconstruction, and cross-tool validation matrices. |
-
----
-
-## Direct Links & Submission Reference
-
-* **Repository URL:** `https://github.com/your-username/AIT-DF-2026-009-Forensic-Report`
-* **Direct Report PDF:** `https://github.com/your-username/AIT-DF-2026-009-Forensic-Report/blob/main/Forensic_Investigation_Report.pdf`
-
----
-*Prepared for Apex Integrated Technologies Ltd. Digital Forensics & Incident Response Division.*

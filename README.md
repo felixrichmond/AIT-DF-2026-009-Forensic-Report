@@ -1,7 +1,7 @@
 # Case ID: AIT-DF-2026-009 — Digital Forensic Investigation Report
 
 **Organization:** Apex Integrated Technologies Ltd. — DFIR Unit  
-**Investigator:** Praise  
+**Investigator:** Felix Richmond
 **Date:** September 27, 2026  
 **Status:** Completed & Submitted  
 
